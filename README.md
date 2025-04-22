@@ -1,5 +1,8 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
+Name:Muthulakshmi D
+reg:212223040122
+
 ## AIM:
 To create a warehouse application in salesforce.com
 
